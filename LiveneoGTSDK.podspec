@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LiveneoGTSDK"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "个推iOS SDK CocoaPods集成库"
 
   # This description is used to generate tags and improve search results.
@@ -68,7 +68,7 @@ A longer description of getui-sdk-ios-cocoapods in Markdown format.
   # s.platform     = :ios
    s.platform     = :ios, "7.0"
   #  When using multiple platforms
-   s.ios.deployment_target = "5.0"
+   s.ios.deployment_target = "7.0"
   # s.osx.deployment_target = "10.7"
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
